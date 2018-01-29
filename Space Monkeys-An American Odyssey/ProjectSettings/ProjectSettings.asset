@@ -633,9 +633,9 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: 5d3a1fcf-394a-4e91-aba3-7e4f0aec51ce
+  projectName: Space Monkeys-An American Odyssey
+  organizationId: anthony2482012
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
